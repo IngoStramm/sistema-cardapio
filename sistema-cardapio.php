@@ -4,7 +4,7 @@
  * Plugin Name: Sistema Cardápio
  * Plugin URI: https://agencialaf.com
  * Description: Este plugin é parte do ConverteFácil.
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: Ingo Stramm
  * Text Domain: sistema-cardapio
  * License: GPLv2
